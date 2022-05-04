@@ -20,7 +20,7 @@
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/klyatn-7D746E?style=for-the-badge&logo=klyatn&logoColor=white">
+  <img src="https://img.shields.io/badge/klaytn-7D746E?style=for-the-badge&logo=klaytn&logoColor=white">
 </div>
 </div>
 <div align=center>
