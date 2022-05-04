@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <div align=center>
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/klaytn-7D746E?style=for-the-badge&logo=klaytn&logoColor=white">
 </div>
