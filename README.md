@@ -21,15 +21,8 @@
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/klaytn-7D746E?style=for-the-badge&logo=klaytn&logoColor=white">
-</div>
-</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
-<div align=center>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
