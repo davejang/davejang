@@ -1,5 +1,17 @@
+<h2>Contacts</h2>
+<div>
+   <a href="mailto:davejang98@naver.com">
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=davejang98@naver.com"/>
+   </a>
+</div>
+<div>
+   <a href="mailto:davejang98@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=davejang98@gmail.com"/>
+   </a>
+</div>
+
 <h2>TECH STACKS</h2>
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -21,13 +33,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
-<h2>Contacts</h2>
-<div align=center>
-   <a href="mailto:davejang98@naver.com">
-      <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=davejang98@naver.com"/>
-   </a>
-
-   <a href="mailto:davejang98@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=davejang98@gmail.com"/>
-   </a>
-</div>
