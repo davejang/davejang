@@ -1,6 +1,6 @@
 Hi, there!👋 I'm server/backend developer using Java and Python<p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davejang&show_icons=true&theme=radical)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98)
+
 <h2>Tech Stacks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
