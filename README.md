@@ -1,5 +1,5 @@
 Hi, there!👋 I'm server/backend developer using Java and Python<p>
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98)]
 
 <h2>Tech Stacks</h2>
 <div align="center">
