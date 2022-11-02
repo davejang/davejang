@@ -1,4 +1,11 @@
-Hi, there!👋 I'm server/backend developer using Java and Python<p>
+Welcome to my github page<p>
+
+<p>
+<h2>Education</h2>
+<div>
+  Hankuk University of Foreign Studies / Computer Science
+</div>
+<p>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98)
 
 <h2>Tech Stacks</h2>
