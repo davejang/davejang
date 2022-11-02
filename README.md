@@ -1,14 +1,12 @@
 Welcome to my github page<p>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang98)](https://solved.ac/davejang98/)<p>
 
-<p>
+
 <h2>Education</h2>
 <div>
   Hankuk University of Foreign Studies / Computer Science
 </div>
-<p>
-  
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=davejang)](https://solved.ac/davejang/)
   
 <h2>Tech Stacks</h2>
 <div align="center">
