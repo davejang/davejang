@@ -10,18 +10,18 @@ Welcome to my github page<p>
   
 <h2>Tech Stacks</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SOLIDITY-363636?style=flat-square&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/sap-0FAAFF?style=flat-square&logo=sap&logoColor=white"> 
-  <img src="https://img.shields.io/badge/abap-0FAAFF?style=flat-square&logo=abap&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=abap&logoColor=white">
 
 </div>
 
