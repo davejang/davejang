@@ -16,12 +16,12 @@ Welcome to my github page<p>
   <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/sap-#0FAAFF?style=flat-square&logo=sap&logoColor=white"> 
-  <img src="https://img.shields.io/badge/abap-#0FAAFF?style=flat-square&logo=abap&logoColor=white">
+  <img src="https://img.shields.io/badge/sap-0FAAFF?style=flat-square&logo=sap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/abap-0FAAFF?style=flat-square&logo=abap&logoColor=white">
 
 </div>
 
