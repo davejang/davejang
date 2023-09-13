@@ -24,7 +24,7 @@ Welcome to my github page<p>
   데이터분석 준전문가(Advanced Data Analytics Semi-Professional) / 한국데이터산업진흥원
 </div>
 
-<h2>Awards<h2>
+<h2>Awards</h2>
 <div>
   2022 인공지능 아이디어 페스티벌(한국외국어대학교 주관) / 대상(한국외국어대학교 총장상)
 </div>
