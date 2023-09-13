@@ -6,6 +6,8 @@ Welcome to my github page<p>
 <h2>Education</h2>
 <div>
   한국외국어대학교(Hankuk University of Foreign Studies) / 컴퓨터전자시스템공학(Computer and Electronic System Engineering) 1전공
+</div>
+<div>
   한국외국어대학교(Hankuk University of Foreign Studies) / 정치외교학(Political Science and Diplomacy) 이중전공
 </div>
 
@@ -17,6 +19,8 @@ Welcome to my github page<p>
 <h2>Certificates</h2>
 <div>
   정보처리기사(Engineer Information Processing) / 한국산업인력공단
+</div>
+<div>
   데이터분석 준전문가(Advanced Data Analytics Semi-Professional) / 한국데이터산업진흥원
 </div>
 
