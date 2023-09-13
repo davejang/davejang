@@ -13,7 +13,7 @@ Welcome to my github page<p>
 
 <h2>Experience</h2>
 <div>
-  한화시스템(Hanwha Systems) / SAP ERP R/3 CO(Finance-Controlliing) Developer
+  한화시스템(Hanwha Systems) / SAP ERP R/3 CO(Finance-Controlling) Developer
 </div>
 
 <h2>Certificates</h2>
