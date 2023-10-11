@@ -39,7 +39,7 @@ Welcome to my github page<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=abap&logoColor=white">
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white">
 </div>
 
 <h2>Contacts</h2>
