@@ -11,11 +11,6 @@ Welcome to my github page<p>
   한국외국어대학교(Hankuk University of Foreign Studies) / 정치외교학(Political Science and Diplomacy) 이중전공
 </div>
 
-<h2>Experience</h2>
-<div>
-  한화시스템(Hanwha Systems) / SAP ERP R/3 CO(Finance-Controlling) Developer
-</div>
-
 <h2>Certificates</h2>
 <div>
   정보처리기사(Engineer Information Processing) / 한국산업인력공단
