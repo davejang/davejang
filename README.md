@@ -5,23 +5,23 @@ Welcome to my github page<p>
 
 <h2>Education</h2>
 <div>
-  한국외국어대학교(Hankuk University of Foreign Studies) / 컴퓨터전자시스템공학(Computer and Electronic System Engineering) 1전공
+  한국외국어대학교(Hankuk University of Foreign Studies) 컴퓨터전자시스템공학(Computer and Electronic System Engineering) 1전공
 </div>
 <div>
-  한국외국어대학교(Hankuk University of Foreign Studies) / 정치외교학(Political Science and Diplomacy) 이중전공
+  한국외국어대학교(Hankuk University of Foreign Studies) 정치외교학(Political Science and Diplomacy) 이중전공
 </div>
 
 <h2>Certificates</h2>
 <div>
-  정보처리기사(Engineer Information Processing) / 한국산업인력공단
+  정보처리기사(Engineer Information Processing)
 </div>
 <div>
-  데이터분석 준전문가(Advanced Data Analytics Semi-Professional) / 한국데이터산업진흥원
+  데이터분석 준전문가(Advanced Data Analytics Semi-Professional)
 </div>
 
 <h2>Awards</h2>
 <div>
-  2022 인공지능 아이디어 페스티벌(한국외국어대학교 주관) / 대상(한국외국어대학교 총장상)
+  2022 인공지능 아이디어 페스티벌 대상(한국외국어대학교 총장상)
 </div>
 
 <h2>Tech Stacks</h2>
