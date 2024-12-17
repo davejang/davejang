@@ -48,6 +48,5 @@ Welcome to my github page<p>
    </a>
 </div>
 
-<div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheTensor&count_bg=%23282D00&title_bg=%2307EC65&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
-</div>
+
